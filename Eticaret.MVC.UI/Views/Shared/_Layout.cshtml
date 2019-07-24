@@ -1,0 +1,137 @@
+﻿@using Eticaret.Entities
+@using Eticaret.MVC.UI
+@using Eticaret.MVC.UI.Models
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>ETrade</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/homepage.css" rel="stylesheet" />
+    <link href="~/Content/validation-summary.css" rel="stylesheet" />
+    <link href="~/Content/loginRegister.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery.js"></script>
+    <script src="~/Scripts/jquery-3.3.1.js"></script>
+    <link href="~/Scripts/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.js"></script>
+
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Menü</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/Home/Index"><span class="glyphicon glyphicon-globe"></span> E-Trade</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    @if (CurrentSession.UserSession != null)
+                    {
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="/Note/MyNotes" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="glyphicon glyphicon-king"></span> Yönetim <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li>
+                                    @_Bootstrap.LinkMenu("/Note/Create", "plus", "Not Ekle")
+                                </li>
+
+                                <li role="separator" class="divider"></li>
+                                <li>
+                                    @_Bootstrap.LinkMenu("/Note/Index", "th-list", "Notlarım")
+                                </li>
+                                <li>
+                                    @_Bootstrap.LinkMenu("/Note/MyLikedNotes", "heart", "Beğendiklerim")
+                                </li>
+
+                                @if (CurrentSession.UserSession.IsAdmin)
+                                {
+                                    <li role="separator" class="divider"></li>
+                                    <li>
+                                        @_Bootstrap.LinkMenu("/Category/Create", "plus", "Kategori Ekle")
+                                    </li>
+                                    <li>
+                                        @_Bootstrap.LinkMenu("/Category/Index", "list", "Kategoriler")
+                                    </li>
+                                }
+                                <li role="separator" class="divider"></li>
+                                <li>
+                                    @_Bootstrap.LinkMenu("/TradeUser/Create", "plus", "Kullanıcı Ekle")
+                                </li>
+                                <li>
+                                    @_Bootstrap.LinkMenu("/TradeUser/Index", "th-list", "Kullanıcılar")
+                                </li>
+
+                            </ul>
+                        </li>
+                    }
+
+                    <li>
+                        @_Bootstrap.LinkMenu("/Home/MostLiked", "star", "En Beğenilenler")
+                    </li>
+                    <li>
+                        @_Bootstrap.LinkMenu("/Home/Index", "th-list", "Son Yazılanlar")
+
+                    </li>
+                    <li>
+                        @_Bootstrap.LinkMenu("/Home/About", "info-sign", "Hakkımızda")
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @if (CurrentSession.UserSession == null)
+                    {
+                        <li>
+                            @_Bootstrap.LinkMenu("/Home/Login", "log-in", "Giriş")
+                        </li>
+                        <li>
+                            @_Bootstrap.LinkMenu("/Home/Register", "user", "Üye ol")
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="dropdown">
+                            <a href="/Home/ShowProfile" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                               aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-user"></span> @CurrentSession.UserSession.UserName<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    @_Bootstrap.LinkMenu("/Home/ShowProfile", "user", "Profili Göster")
+                                </li>
+                                <li role="separator" class="divider"></li>
+                                <li>
+                                    @_Bootstrap.LinkMenu("/Home/EditProfile", "edit", "Profili Düzenle")
+                                </li>
+                                <li>
+                                    <a href="/Home/DeleteProfile" onclick="return confirm('Hesabınızı silmek istediğinize emin misiniz?');">
+                                        <span class="glyphicon glyphicon-trash"></span> Profil Sil
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            @_Bootstrap.LinkMenu("/Home/Logout", "log-out", "Çıkış")
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    @RenderBody()
+
+    @RenderSection("footer", required: false)
+
+
+</body>
+</html>

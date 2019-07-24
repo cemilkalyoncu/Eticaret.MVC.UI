@@ -1,0 +1,23 @@
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\bin\Debug\Eticaret.Entities.dll
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\bin\Debug\Eticaret.Entities.pdb
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.dll
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.pdb
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.csprojAssemblyReference.cache
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\bin\Debug\Eticaret.Entities.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\bin\Debug\Eticaret.Entities.pdb
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\bin\Debug\Eticaret.Entities.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\bin\Debug\Eticaret.Entities.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.csprojAssemblyReference.cache
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.pdb
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Entities\bin\Debug\Eticaret.Entities.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Entities\bin\Debug\Eticaret.Entities.pdb
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.csprojAssemblyReference.cache
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Entities\obj\Debug\Eticaret.Entities.pdb

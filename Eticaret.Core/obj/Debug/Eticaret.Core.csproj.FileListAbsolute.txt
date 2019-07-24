@@ -1,0 +1,18 @@
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\bin\Debug\Eticaret.Core.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\bin\Debug\Eticaret.Core.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.csproj.CoreCompileInputs.cache
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.pdb
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\bin\Debug\Eticaret.Core.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\bin\Debug\Eticaret.Core.pdb
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.csprojAssemblyReference.cache
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.csproj.CoreCompileInputs.cache
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.csprojAssemblyReference.cache
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Core\bin\Debug\Eticaret.Core.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Core\bin\Debug\Eticaret.Core.pdb
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.csprojAssemblyReference.cache
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.csproj.CoreCompileInputs.cache
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Core\obj\Debug\Eticaret.Core.pdb

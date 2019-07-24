@@ -1,0 +1,88 @@
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.dll.config
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.dll
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.pdb
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.dll
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.dll
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Entities.dll
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.pdb
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.dll.config
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.xml
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Entities.pdb
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csprojAssemblyReference.cache
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csproj.CoreCompileInputs.cache
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csproj.CopyComplete
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.dll
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.pdb
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\FakeData.dll
+C:\Users\cemil.kalyoncu\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\FakeData.pdb
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.dll.config
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.pdb
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Common.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Core.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Entities.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\FakeData.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Common.pdb
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Core.pdb
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.pdb
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.dll.config
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Entities.pdb
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.xml
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\FakeData.pdb
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csprojAssemblyReference.cache
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csproj.CoreCompileInputs.cache
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csproj.CopyComplete
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.dll
+C:\Users\cemil.kalyoncu\source\repos\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csprojAssemblyReference.cache
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csproj.CoreCompileInputs.cache
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.dll.config
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Common.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Core.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Entities.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\FakeData.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Common.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Core.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.dll.config
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Entities.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.xml
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\FakeData.pdb
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csproj.CopyComplete
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.dll
+C:\Users\AnıYaSa\Desktop\MVC ASP.NET e ticaret\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.pdb
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.dll.config
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Business.pdb
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Common.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Core.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Entities.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\FakeData.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Common.pdb
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Core.pdb
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.pdb
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.DataAccess.dll.config
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\Eticaret.Entities.pdb
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.xml
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\bin\Debug\FakeData.pdb
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csprojAssemblyReference.cache
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csproj.CoreCompileInputs.cache
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.csproj.CopyComplete
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.dll
+C:\Users\AnıYaSa\Desktop\Eticaret.MVC.UI\Eticaret.Business\obj\Debug\Eticaret.Business.pdb

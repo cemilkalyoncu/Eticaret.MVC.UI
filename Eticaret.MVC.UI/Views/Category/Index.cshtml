@@ -1,0 +1,69 @@
+﻿@using Eticaret.MVC
+@model IEnumerable<Eticaret.Entities.Category>
+
+@{
+    ViewBag.Title = "Kategoriler";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <h2>Kategorler</h2>
+        <hr />
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <p>
+            <a href="/Category/Create" class="btn btn-primary btn-sm">
+                <span class="glyphicon glyphicon-plus"></span> Yeni
+            </a>
+        </p>
+        <br />
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CreateOn)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ModifiedOn)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ModifiedUserName)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreateOn)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ModifiedOn)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ModifiedUserName)
+                    </td>
+                    <td>
+                        @_Bootstrap.LinkButton("/Category/Edit/" + @item.Id + "", "warning", "btn-xs", "Düzenle", "edit", string.Empty)
+                        @_Bootstrap.LinkButton("/Category/Details/" + @item.Id + "", "info", "btn-xs", "Düzenle", "search", string.Empty)
+                        @_Bootstrap.LinkButton("/Category/Delete/" + @item.Id + "", "danger", "btn-xs", "Düzenle", "trash", string.Empty)
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

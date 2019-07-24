@@ -1,0 +1,68 @@
+﻿@using Eticaret.MVC
+@model Eticaret.Entities.Category
+
+@{
+    ViewBag.Title = "Detay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <h2>Detaylar</h2>
+        <hr />
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-5 col-md-offset-2 ">
+        <h4>Kategori</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.CreateOn)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.CreateOn)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ModifiedOn)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ModifiedOn)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ModifiedUserName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ModifiedUserName)
+            </dd>
+
+        </dl>
+        <div class="form-group">
+            <div class="col-md-offset-3 col-md-10">
+                @_Bootstrap.LinkButton("/Category/Edit/" + @Model.Id + "", "warrning", string.Empty, string.Empty, "edit","Düzenle")
+                @_Bootstrap.LinkButton("/Category/Index/", "default", string.Empty, string.Empty, "arrow-left", "Geri Dön")
+            </div>
+
+        </div>
+    </div>
+</div>

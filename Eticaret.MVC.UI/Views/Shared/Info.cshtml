@@ -1,0 +1,43 @@
+﻿@using Eticaret.MVC.UI.ViewModels
+@model InfoViewModel
+@{
+    ViewBag.Title = "Info";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="login-info">
+    <div class="container">
+        <div class="row main">
+            <div class="form-header">
+                <h1 class="text-center "> @Model.Header</h1>
+            </div>
+            <div class="main-content">
+                <div class="text-info">
+                    <h2><span class="glyphicon glyphicon-info-sign"></span>&nbsp;&nbsp;&nbsp;&nbsp; @Model.Title</h2>
+                    <hr />
+                    <p class="text-justify">
+                        @foreach (String message in Model.Items)
+                        {
+                            @message
+                            <br />
+                        }
+
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@{
+    string javaScript = string.Empty;
+    if (Model.IsRedirecting)
+    {
+        javaScript = "setTimeout(function () {window.location = '" +
+            Model.RedirectingUrl + "';}," + Model.RedirectingTimeout + "); ";
+    }
+}
+<script>
+    $(function () {
+        @Html.Raw(javaScript);
+    });
+</script>

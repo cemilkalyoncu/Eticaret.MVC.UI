@@ -1,0 +1,15 @@
+﻿@using Eticaret.MVC.UI.Models
+@using Eticaret.Entities
+
+@{ 
+    List<Category> categoriesList = CacheHelper.GetCategoriesFromCache();
+}
+
+<p class="lead">Kategoriler</p>
+<div class="list-group">
+    <a href="@Url.Action("Index","Home")" class="list-group-item"><span class="glyphicon glyphicon-circle-arrow-right"></span> Tümü</a>
+    @foreach (Category category in categoriesList)
+    {
+        <a href="/Home/ByCategory/@category.Id" title="@category.Description" class="list-group-item"><span class="glyphicon glyphicon-circle-arrow-right"></span>  @category.Title</a>
+    }
+</div>
